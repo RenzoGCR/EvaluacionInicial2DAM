@@ -43,7 +43,7 @@ public class Agenda {
         }
     }
     public void salir(){
-        System.out.println("Saliendo de la aplicacion...");-
+        System.out.println("Saliendo de la aplicacion...");
         sc.close();
     }
 
